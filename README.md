@@ -1,44 +1,272 @@
-Hi 👋, I'm Venkata Krishna Vamsy Gundu
+# 👋 Hi, I'm Venkata Krishna Vamsy Gundu
 
-AWS DevOps Engineer | Cloud & Automation
+### ☁️ AWS DevOps Engineer | Cloud | Automation | CI/CD
 
-I am an AWS DevOps Engineer with 4+ years of experience in
-cloud infrastructure, CI/CD automation, containerization,
-Infrastructure as Code, and deployment automation.
+I'm an **AWS DevOps Engineer with 4+ years of experience** working with cloud infrastructure, CI/CD pipelines, containerization, automation, and deployment workflows.
 
-### 🚀 Technical Skills
+I enjoy building **reliable, scalable, and automated infrastructure** and continuously improving deployment processes through DevOps practices.
 
-Cloud:
-AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, ECR, ECS)
+---
 
-DevOps:
-Jenkins, Git, GitHub, GitHub Actions
+## 🚀 About Me
 
-Containers:
-Docker, Kubernetes
+* 💼 **4+ years of experience** in AWS & DevOps
+* ☁️ Working with **AWS Cloud & Infrastructure**
+* 🔄 Building and automating **CI/CD pipelines**
+* 🐳 Working with **Docker & containerized applications**
+* ☸️ Exploring and implementing **Kubernetes deployments**
+* 🏗️ Managing infrastructure using **Terraform**
+* 🔧 Automating builds and deployments using **Jenkins**
+* 🐧 Comfortable working with **Linux environments**
+* 🌱 Continuously learning new cloud-native and DevOps technologies
+* 🎯 Interested in building production-ready cloud infrastructure and automation solutions
 
-Infrastructure as Code:
-Terraform, CloudFormation
+---
 
-Operating Systems:
+## 🛠️ Technologies & Tools
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+
+**EC2 • S3 • IAM • VPC • RDS • ECR • ECS • CloudWatch**
+
+### 🔄 CI/CD & Version Control
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+**Jenkins • GitHub Actions • Git • GitHub**
+
+### 🐳 Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+**Docker • Kubernetes**
+
+### 🏗️ Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+**Terraform • Infrastructure Automation**
+
+### 🐧 Operating Systems & Scripting
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+**Linux • Bash • Python**
+
+### ☕ Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+**Java • SQL**
+
+---
+
+# 🚀 Featured DevOps Projects
+
+## ☁️ AWS Infrastructure Automation
+
+**Technologies:** AWS • Terraform • Linux
+
+Infrastructure-as-Code project demonstrating automated provisioning and management of AWS infrastructure using Terraform.
+
+**Key areas:**
+
+* AWS networking
+* VPC & subnets
+* Security groups
+* EC2 infrastructure
+* IAM
+* Terraform modules
+* Infrastructure automation
+
+---
+
+## 🔄 CI/CD Pipeline with Jenkins
+
+**Technologies:** Jenkins • Git • Docker • AWS
+
+End-to-end CI/CD pipeline demonstrating automated application build, testing, containerization, and deployment.
+
+**Pipeline:**
+
+```text
+Developer
+    ↓
+   Git
+    ↓
+ GitHub
+    ↓
+ Jenkins
+    ↓
+ Build & Test
+    ↓
+ Docker Build
+    ↓
+ Amazon ECR
+    ↓
+ AWS Deployment
+```
+
+---
+
+## 🐳 Dockerized Application
+
+**Technologies:** Docker • Linux • Git
+
+Containerized application demonstrating Docker image creation, container management, networking, volumes, and deployment practices.
+
+**Key areas:**
+
+* Dockerfile
+* Docker Images
+* Containers
+* Docker Networks
+* Volumes
+* Docker Compose
+* Container optimization
+
+---
+
+## ☸️ Kubernetes Application Deployment
+
+**Technologies:** Kubernetes • Docker • YAML
+
+Kubernetes deployment project demonstrating container orchestration and application deployment.
+
+**Key areas:**
+
+* Pods
+* Deployments
+* Services
+* ConfigMaps
+* Secrets
+* Ingress
+* Rolling updates
+* Scaling
+
+---
+
+## ⚡ GitHub Actions CI/CD
+
+**Technologies:** GitHub Actions • Docker • AWS
+
+Automated CI/CD workflow using GitHub Actions to build, test, containerize, and deploy applications.
+
+```text
+Git Push
+   ↓
+GitHub Actions
+   ↓
+Build
+   ↓
+Test
+   ↓
+Docker Build
+   ↓
+Security Checks
+   ↓
+Container Registry
+   ↓
+AWS Deployment
+```
+
+---
+
+# 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaVamsy99\&show_icons=true\&theme=dark\&hide_border=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVamsy99\&layout=compact\&theme=dark\&hide_border=true)
+
+---
+
+# 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaVamsy99\&theme=dark\&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+# 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KrishnaVamsy99\&theme=darkhub\&no-frame=true\&margin-w=10)
+
+---
+
+# 📚 Currently Learning
+
+* ☁️ Advanced AWS Architecture
+* ☸️ Kubernetes & AWS EKS
+* 🏗️ Advanced Terraform
+* 🔄 CI/CD & DevSecOps
+* 📦 Containerization & Cloud-Native Architecture
+* 📊 Monitoring & Observability
+* 🤖 DevOps Automation with Python
+
+---
+
+# 📈 DevOps Learning Path
+
+```text
 Linux
+  ↓
+Git & GitHub
+  ↓
+AWS Cloud
+  ↓
+Jenkins / CI/CD
+  ↓
+Docker
+  ↓
+Kubernetes
+  ↓
+Terraform
+  ↓
+Monitoring
+  ↓
+DevSecOps
+  ↓
+Cloud-Native Architecture
+```
 
-Scripting:
-Bash, Python
+---
 
-### 🛠️ DevOps Projects
+# 💼 Professional Focus
 
-🔹 AWS 3-Tier Infrastructure using Terraform
-🔹 CI/CD Pipeline using Jenkins + Docker
-🔹 Kubernetes Application Deployment
-🔹 AWS Infrastructure Monitoring
-🔹 GitHub Actions CI/CD Pipeline
+I'm particularly interested in:
 
-### 📊 GitHub
+* AWS Cloud Infrastructure
+* DevOps Engineering
+* CI/CD Automation
+* Infrastructure as Code
+* Containerization
+* Kubernetes
+* Cloud Automation
+* DevSecOps
+* Site Reliability Engineering
+* Cloud-Native Architecture
 
-[GitHub Stats]
+---
 
-### 📫 Connect with me
+# 🤝 Let's Connect
 
-LinkedIn: ...
-Email: ...
+<p align="left">
+<a href="https://www.linkedin.com/in/venkatakrishnavamsygundu/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/KrishnaVamsy99" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 💡 "Automate everything that should be automated."
+
+⭐ If you find my projects useful, feel free to explore my repositories and connect with me.
