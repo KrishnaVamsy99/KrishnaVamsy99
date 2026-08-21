@@ -177,27 +177,6 @@ Container Registry
    ↓
 AWS Deployment
 ```
-
----
-
-# 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaVamsy99\&show_icons=true\&theme=dark\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVamsy99\&layout=compact\&theme=dark\&hide_border=true)
-
----
-
-# 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaVamsy99\&theme=dark\&hide_border=true)](https://git.io/streak-stats)
-
----
-
-# 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KrishnaVamsy99\&theme=darkhub\&no-frame=true\&margin-w=10)
-
 ---
 
 # 📚 Currently Learning
