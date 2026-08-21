@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi 👋, I'm Venkata Krishna Vamsy Gundu
 
-<!--
-**KrishnaVamsy99/KrishnaVamsy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS DevOps Engineer | Cloud & Automation
 
-Here are some ideas to get you started:
+I am an AWS DevOps Engineer with 4+ years of experience in
+cloud infrastructure, CI/CD automation, containerization,
+Infrastructure as Code, and deployment automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+Cloud:
+AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, ECR, ECS)
+
+DevOps:
+Jenkins, Git, GitHub, GitHub Actions
+
+Containers:
+Docker, Kubernetes
+
+Infrastructure as Code:
+Terraform, CloudFormation
+
+Operating Systems:
+Linux
+
+Scripting:
+Bash, Python
+
+### 🛠️ DevOps Projects
+
+🔹 AWS 3-Tier Infrastructure using Terraform
+🔹 CI/CD Pipeline using Jenkins + Docker
+🔹 Kubernetes Application Deployment
+🔹 AWS Infrastructure Monitoring
+🔹 GitHub Actions CI/CD Pipeline
+
+### 📊 GitHub
+
+[GitHub Stats]
+
+### 📫 Connect with me
+
+LinkedIn: ...
+Email: ...
