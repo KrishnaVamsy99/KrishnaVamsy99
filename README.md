@@ -50,23 +50,6 @@ I'm an **AWS DevOps Engineer** passionate about building reliable, scalable, and
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaVamsy99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVamsy99&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KrishnaVamsy99&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
