@@ -10,7 +10,6 @@
   <b>Building • Automating • Deploying • Scaling</b>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
