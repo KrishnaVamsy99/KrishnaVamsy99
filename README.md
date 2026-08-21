@@ -29,7 +29,8 @@ I enjoy building **reliable, scalable, and automated infrastructure** and contin
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
-**EC2 • S3 • IAM • VPC • RDS • ECR • ECS • CloudWatch**
+**EC2 • EKS • ECS • VPC • IAM • S3 • RDS • Route 53 • Lambda • CloudFront • CloudWatch • CloudTrail • Auto Scaling • ALB • WAF • Secrets Manager • ECR • EFS • SNS • KMS • Transit Gateway**
+
 
 ### 🔄 CI/CD & Version Control
 
