@@ -110,7 +110,7 @@ Developer
     ↓
  Docker Build
     ↓
- Amazon ECR
+ DOcker Hub
     ↓
  AWS Deployment
 ```
