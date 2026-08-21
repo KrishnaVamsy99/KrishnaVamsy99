@@ -14,17 +14,20 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AWS DevOps Engineer** passionate about building reliable, scalable, and automated cloud infrastructure.
+I'm an **AWS DevOps Engineer with 4+ years of experience** working with cloud infrastructure, CI/CD pipelines, containerization, automation, and deployment workflows.
 
-* ☁️ Designing and managing **AWS Cloud Infrastructure**
-* 🚀 Building robust **CI/CD Pipelines**
-* 🐳 Containerizing applications using **Docker**
-* ☸️ Deploying applications with **Kubernetes**
-* 🏗️ Automating infrastructure using **Terraform**
-* 🔧 Implementing CI/CD with **Jenkins & GitHub Actions**
-* 🐧 Working with **Linux**
-* 🔄 Automating repetitive tasks and deployment workflows
-* 📚 Continuously learning modern **Cloud & DevOps technologies**
+I enjoy building **reliable, scalable, and automated infrastructure** and continuously improving deployment processes through DevOps practices.
+
+* 💼 **4+ years of experience** in AWS & DevOps
+* ☁️ Working with **AWS Cloud & Infrastructure**
+* 🔄 Building and automating **CI/CD pipelines**
+* 🐳 Working with **Docker & containerized applications**
+* ☸️ Exploring and implementing **Kubernetes deployments**
+* 🏗️ Managing infrastructure using **Terraform**
+* 🔧 Automating builds and deployments using **Jenkins**
+* 🐧 Comfortable working with **Linux environments**
+* 🌱 Continuously learning new cloud-native and DevOps technologies
+* 🎯 Interested in building production-ready cloud infrastructure and automation solutions
 
 ---
 
@@ -58,53 +61,184 @@ I'm an **AWS DevOps Engineer** passionate about building reliable, scalable, and
 
 ---
 
-## 🚀 DevOps Workflow
+# 🚀 Featured DevOps Projects
 
-<p align="center">
-  ☁️ AWS
-  →
-  🏗️ Terraform
-  →
-  🔄 CI/CD
-  →
-  🐳 Docker
-  →
-  ☸️ Kubernetes
-  →
-  📊 Monitoring
-</p>
+## ☁️ AWS Infrastructure Automation
+
+**Technologies:** AWS • Terraform • Linux
+
+Infrastructure-as-Code project demonstrating automated provisioning and management of AWS infrastructure using Terraform.
+
+**Key areas:**
+
+* AWS networking
+* VPC & subnets
+* Security groups
+* EC2 infrastructure
+* IAM
+* Terraform modules
+* Infrastructure automation
 
 ---
 
-## 🎯 Current Focus
+## 🔄 CI/CD Pipeline with Jenkins
 
-* ☁️ AWS Cloud Architecture
-* 🏗️ Infrastructure as Code
-* ☸️ Kubernetes
-* 🔄 CI/CD Automation
-* 🔐 DevSecOps
+**Technologies:** Jenkins • Git • Docker • AWS
+
+End-to-end CI/CD pipeline demonstrating automated application build, testing, containerization, and deployment.
+
+**Pipeline:**
+
+```text
+Developer
+    ↓
+   Git
+    ↓
+ GitHub
+    ↓
+ Jenkins
+    ↓
+ Build & Test
+    ↓
+ Docker Build
+    ↓
+ DOcker Hub
+    ↓
+ AWS Deployment
+```
+
+---
+
+## 🐳 Dockerized Application
+
+**Technologies:** Docker • Linux • Git
+
+Containerized application demonstrating Docker image creation, container management, networking, volumes, and deployment practices.
+
+**Key areas:**
+
+* Dockerfile
+* Docker Images
+* Containers
+* Docker Networks
+* Volumes
+* Docker Compose
+* Container optimization
+
+---
+
+## ☸️ Kubernetes Application Deployment
+
+**Technologies:** Kubernetes • Docker • YAML
+
+Kubernetes deployment project demonstrating container orchestration and application deployment.
+
+**Key areas:**
+
+* Pods
+* Deployments
+* Services
+* ConfigMaps
+* Secrets
+* Ingress
+* Rolling updates
+* Scaling
+
+---
+
+## ⚡ GitHub Actions CI/CD
+
+**Technologies:** GitHub Actions • Docker • AWS
+
+Automated CI/CD workflow using GitHub Actions to build, test, containerize, and deploy applications.
+
+```text
+Git Push
+   ↓
+GitHub Actions
+   ↓
+Build
+   ↓
+Test
+   ↓
+Docker Build
+   ↓
+Security Checks
+   ↓
+Container Registry
+   ↓
+AWS Deployment
+```
+---
+
+# 📚 Currently Learning
+
+* ☁️ Advanced AWS Architecture
+* ☸️ Kubernetes & AWS EKS
+* 🏗️ Advanced Terraform
+* 🔄 CI/CD & DevSecOps
+* 📦 Containerization & Cloud-Native Architecture
 * 📊 Monitoring & Observability
-* 🤖 AI + DevOps Automation
+* 🤖 DevOps Automation with Python
 
 ---
 
-## 🤝 Let's Connect
+# 📈 DevOps Learning Path
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkatakrishnavamsygundu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/KrishnaVamsy99">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
+```text
+Linux
+  ↓
+Git & GitHub
+  ↓
+AWS Cloud
+  ↓
+Jenkins / CI/CD
+  ↓
+Docker
+  ↓
+Kubernetes
+  ↓
+Terraform
+  ↓
+Monitoring
+  ↓
+DevSecOps
+  ↓
+Cloud-Native Architecture
+```
+
+---
+
+# 💼 Professional Focus
+
+I'm particularly interested in:
+
+* AWS Cloud Infrastructure
+* DevOps Engineering
+* CI/CD Automation
+* Infrastructure as Code
+* Containerization
+* Kubernetes
+* Cloud Automation
+* DevSecOps
+* Site Reliability Engineering
+* Cloud-Native Architecture
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/venkatakrishnavamsygundu/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/KrishnaVamsy99" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-  <b>⚡ Automate Everything. Deploy Faster. Scale Smarter. ☁️</b>
-</p>
+### 💡 "Automate everything that should be automated."
 
-<p align="center">
-  <i>Building the future, one pipeline at a time.</i> 🚀
-</p>
+⭐ If you find my projects useful, feel free to explore my repositories and connect with me.
