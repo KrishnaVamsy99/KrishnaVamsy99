@@ -6,6 +6,12 @@ I'm an **AWS DevOps Engineer with 4+ years of experience** working with cloud in
 
 I enjoy building **reliable, scalable, and automated infrastructure** and continuously improving deployment processes through DevOps practices.
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+Welcome+to+Krishna+Vamsy's+DevOps+World!;AWS+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+CI%2FCD+Pipelines+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins+%7C+Linux" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
