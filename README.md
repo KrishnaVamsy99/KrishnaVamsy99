@@ -6,11 +6,14 @@ I'm an **AWS DevOps Engineer with 4+ years of experience** working with cloud in
 
 I enjoy building **reliable, scalable, and automated infrastructure** and continuously improving deployment processes through DevOps practices.
 
+```html
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+Welcome+to+Krishna+Vamsy's+DevOps+World!;AWS+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+CI%2FCD+Pipelines+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins+%7C+Linux" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Krishna+Vamsy+%F0%9F%9A%80;AWS+DevOps+Engineer+%7C+Cloud+Engineer;Building+Reliable+%26+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+%7C+Infrastructure+as+Code;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;Cloud+Automation+%7C+DevOps+%7C+Continuous+Delivery;Turning+Infrastructure+into+Automation+%E2%9A%A1" />
   </a>
 </p>
+```
+
 
 ---
 
