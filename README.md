@@ -1,13 +1,7 @@
-````html
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Krishna+Vamsy+%F0%9F%91%8B;AWS+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+Scalable+%26+Reliable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins+%7C+Linux+%7C+GitHub+Actions;Infrastructure+as+Code+%7C+Continuous+Delivery+%7C+Cloud+Automation;Turning+Infrastructure+into+Automation+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Krishna+Vamsy+%F0%9F%91%8B;AWS+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+Scalable+%26+Reliable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins+%7C+Linux;Turning+Infrastructure+into+Automation+%E2%9A%A1" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishnaVamsy99&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KrishnaVamsy99?label=Followers&style=flat-square&color=2F81F7" alt="GitHub Followers" />
 </p>
 
 <h2 align="center">☁️ AWS | 🚀 DevOps | ⚙️ Automation | 🐳 Containers</h2>
@@ -22,15 +16,15 @@
 
 I'm an **AWS DevOps Engineer** passionate about building reliable, scalable, and automated cloud infrastructure.
 
-- ☁️ Designing and managing **AWS Cloud Infrastructure**
-- 🚀 Building robust **CI/CD pipelines**
-- 🐳 Containerizing applications using **Docker**
-- ☸️ Deploying and managing workloads with **Kubernetes**
-- 🏗️ Automating infrastructure using **Terraform**
-- 🔧 Implementing CI/CD with **Jenkins & GitHub Actions**
-- 🐧 Working extensively with **Linux**
-- 🔄 Automating repetitive tasks and improving deployment workflows
-- 📚 Continuously learning and exploring modern **Cloud & DevOps technologies**
+* ☁️ Designing and managing **AWS Cloud Infrastructure**
+* 🚀 Building robust **CI/CD Pipelines**
+* 🐳 Containerizing applications using **Docker**
+* ☸️ Deploying applications with **Kubernetes**
+* 🏗️ Automating infrastructure using **Terraform**
+* 🔧 Implementing CI/CD with **Jenkins & GitHub Actions**
+* 🐧 Working with **Linux**
+* 🔄 Automating repetitive tasks and deployment workflows
+* 📚 Continuously learning modern **Cloud & DevOps technologies**
 
 ---
 
@@ -81,53 +75,32 @@ I'm an **AWS DevOps Engineer** passionate about building reliable, scalable, and
 
 ---
 
-## 🚀 What I Build
+## 🚀 DevOps Workflow
 
-```text
-☁️ AWS Cloud Infrastructure
-        ↓
-🏗️ Infrastructure as Code
-        ↓
-🔄 CI/CD Automation
-        ↓
-🐳 Docker Containers
-        ↓
-☸️ Kubernetes Deployments
-        ↓
-📊 Monitoring & Optimization
-        ↓
-🚀 Reliable Production Systems
-````
+<p align="center">
+  ☁️ AWS
+  →
+  🏗️ Terraform
+  →
+  🔄 CI/CD
+  →
+  🐳 Docker
+  →
+  ☸️ Kubernetes
+  →
+  📊 Monitoring
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-AWS Cloud Architecture
-        +
-DevOps Automation
-        +
-Infrastructure as Code
-        +
-Kubernetes
-        +
-CI/CD
-        +
-Cloud Security
-        =
-Scalable & Reliable Cloud Platforms 🚀
-```
-
----
-
-## 🌱 Currently Learning
-
-* ☸️ Kubernetes & Container Orchestration
-* 🏗️ Advanced Terraform
 * ☁️ AWS Cloud Architecture
+* 🏗️ Infrastructure as Code
+* ☸️ Kubernetes
+* 🔄 CI/CD Automation
 * 🔐 DevSecOps
-* 📊 Cloud Monitoring & Observability
+* 📊 Monitoring & Observability
 * 🤖 AI + DevOps Automation
 
 ---
@@ -152,4 +125,3 @@ Scalable & Reliable Cloud Platforms 🚀
 <p align="center">
   <i>Building the future, one pipeline at a time.</i> 🚀
 </p>
-```
